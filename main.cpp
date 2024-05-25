@@ -26,7 +26,6 @@ void showMenu() {
 
 void cmd_add(ClubManager& clubManager) {
     Member newMember;
-    // newMember.id = db_size("clubsocial.db") + 1;
     std::cout << "Entrez le prenom du membre: ";
     std::cin.ignore();
     std::cin.getline(newMember.firstName, 41);
@@ -35,10 +34,7 @@ void cmd_add(ClubManager& clubManager) {
     std::cout << "Entrez la ville du membre: ";
     std::cin.getline(newMember.city, 41);
     std::cout << "Entrez l'age du membre: ";
-    //std::cin >> newMember.age;
     int age;
-
-    // Boucle tant que l'utilisateur n'entre pas un entier
     while (true) {
         std::cout << " ";
         if (!(std::cin >> newMember.age)) {
@@ -55,7 +51,6 @@ void cmd_add(ClubManager& clubManager) {
     newMember.clubCount = 0;
     clubManager.addMember(newMember);
     db_write(db_size(), &newMember);
-    //db_write(newMember.id - 1, &newMember);
     std::cout << "Membre ajoute avec succes." << std::endl;
 }
 
@@ -147,7 +142,6 @@ void cmd_edit(ClubManager &clubManager) {
     clubManager.removeMember(membre.id);
     clubManager.addMember(membre);
     db_write(id - 1, &membre);
-    //db_write(membre.id - 1, &membre);
 }
 
 // Fonction pour afficher les statistiques
@@ -204,7 +198,6 @@ void cmd_import(ClubManager &clubManager) {
             file >> membre.clubNames[i];
         }
         // clubManager.addMember(membre);
-        // db_write(db_size("clubsocial.db"), &membre);
         clubManager.addMember(membre);
         db_write(db_size(), &membre);
     }
@@ -238,7 +231,6 @@ void cmd_rand(ClubManager &clubManager) {
             std::snprintf(membre.clubNames[j], sizeof(membre.clubNames[j]), "Club%d", rand() % 100);
         }
         clubManager.addMember(membre);
-        //db_write(db_size("clubsocial.db"), &membre);
         db_write(db_size(), &membre);
 
     }
