@@ -1,0 +1,3 @@
+C:/Users/hormi/CLionProjects/SocialClub/cmake-build-debug/CMakeFiles/SocialClub.dir
+C:/Users/hormi/CLionProjects/SocialClub/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hormi/CLionProjects/SocialClub/cmake-build-debug/CMakeFiles/rebuild_cache.dir

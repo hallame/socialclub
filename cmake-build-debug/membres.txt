@@ -1,0 +1,52 @@
+1 Prenom1 Nom1 Ville1 41 9 Club34 Club0 Club69 Club24 Club78 Club58 Club62 Club64 Club5 
+2 Prenom2 Nom2 Ville2 45 5 Club27 Club61 Club91 Club95 Club42 
+3 Prenom3 Nom3 Ville3 27 2 Club91 Club4 
+4 Prenom4 Nom4 Ville4 2 10 Club92 Club82 Club21 Club16 Club18 Club95 Club47 Club26 Club71 Club38 
+5 Prenom5 Nom5 Ville5 69 2 Club67 Club99 
+6 Prenom6 Nom6 Ville6 35 5 Club3 Club11 Club22 Club33 Club73 
+7 Prenom7 Nom7 Ville7 64 5 Club11 Club53 Club68 Club47 Club44 
+8 Prenom8 Nom8 Ville8 62 10 Club37 Club59 Club23 Club41 Club29 Club78 Club16 Club35 Club90 Club42 
+9 Prenom9 Nom9 Ville9 88 10 Club40 Club42 Club64 Club48 Club46 Club5 Club90 Club29 Club70 Club50 
+10 Prenom10 Nom10 Ville10 6 4 Club93 Club48 Club29 Club23 
+11 Prenom11 Nom11 Ville11 84 0 
+12 Prenom12 Nom12 Ville12 56 4 Club66 Club76 Club31 Club8 
+13 Prenom13 Nom13 Ville13 44 0 
+14 Prenom14 Nom14 Ville14 26 4 Club37 Club38 Club18 Club82 
+15 Prenom15 Nom15 Ville15 29 8 Club33 Club15 Club39 Club58 Club4 Club30 Club77 Club6 
+16 Prenom16 Nom16 Ville16 73 1 Club21 
+17 Prenom17 Nom17 Ville17 45 7 Club72 Club70 Club29 Club77 Club73 Club97 Club12 
+18 Prenom18 Nom18 Ville18 86 2 Club61 Club36 
+19 Prenom19 Nom19 Ville19 55 6 Club55 Club74 Club31 Club52 Club50 Club50 
+20 Prenom20 Nom20 Ville20 41 10 Club66 Club30 Club7 Club91 Club7 Club37 Club57 Club87 Club53 Club83 
+21 Prenom21 Nom21 Ville21 45 10 Club9 Club58 Club21 Club88 Club22 Club46 Club6 Club30 Club13 Club68 
+22 Prenom22 Nom22 Ville22 0 9 Club62 Club55 Club10 Club59 Club24 Club37 Club48 Club83 Club95 
+23 Prenom23 Nom23 Ville23 41 5 Club50 Club91 Club36 Club74 Club20 
+24 Prenom24 Nom24 Ville24 96 8 Club48 Club99 Club68 Club84 Club81 Club34 Club53 Club99 
+25 Prenom25 Nom25 Ville25 18 9 Club0 Club88 Club27 Club67 Club28 Club93 Club48 Club83 Club7 
+26 Prenom26 Nom26 Ville26 21 10 Club17 Club13 Club14 Club9 Club16 Club35 Club51 Club0 Club49 Club19 
+27 Prenom27 Nom27 Ville27 56 6 Club3 Club24 Club8 Club44 Club9 Club89 
+28 Prenom28 Nom28 Ville28 2 5 Club85 Club93 Club43 Club23 Club87 
+29 Prenom29 Nom29 Ville29 14 10 Club48 Club0 Club58 Club18 Club80 Club96 Club98 Club81 Club89 Club98 
+30 Prenom30 Nom30 Ville30 9 9 Club72 Club22 Club38 Club92 Club38 Club79 Club90 Club57 Club58 
+31 Prenom31 Nom31 Ville31 91 4 Club88 Club56 Club11 Club2 
+32 Prenom32 Nom32 Ville32 34 6 Club55 Club28 Club46 Club62 Club86 Club75 
+33 Prenom33 Nom33 Ville33 33 4 Club42 Club44 Club16 Club81 
+34 Prenom34 Nom34 Ville34 98 4 Club51 Club21 Club99 Club57 
+35 Prenom35 Nom35 Ville35 76 7 Club89 Club75 Club12 Club0 Club10 Club3 Club69 
+36 Prenom36 Nom36 Ville36 61 3 Club1 Club89 Club55 
+37 Prenom37 Nom37 Ville37 23 8 Club85 Club82 Club85 Club88 Club26 Club17 Club57 Club32 
+38 Prenom38 Nom38 Ville38 32 0 
+39 Prenom39 Nom39 Ville39 54 3 Club89 Club76 Club29 
+40 Prenom40 Nom40 Ville40 68 4 Club25 Club55 Club34 Club49 
+41 Prenom41 Nom41 Ville41 41 8 Club45 Club60 Club18 Club53 Club39 Club23 Club79 Club96 
+42 Prenom42 Nom42 Ville42 87 0 
+43 Prenom43 Nom43 Ville43 49 2 Club66 Club49 
+44 Prenom44 Nom44 Ville44 93 7 Club97 Club16 Club86 Club5 Club88 Club82 Club55 
+45 Prenom45 Nom45 Ville45 34 8 Club1 Club16 Club71 Club86 Club63 Club13 Club55 Club85 
+46 Prenom46 Nom46 Ville46 53 10 Club8 Club32 Club45 Club13 Club56 Club21 Club58 Club46 Club82 Club81 
+47 Prenom47 Nom47 Ville47 44 8 Club22 Club29 Club61 Club35 Club50 Club73 Club66 Club44 
+48 Prenom48 Nom48 Ville48 59 2 Club39 Club53 
+49 Prenom49 Nom49 Ville49 24 7 Club10 Club45 Club49 Club86 Club13 Club74 Club22 
+50 Prenom50 Nom50 Ville50 68 4 Club87 Club5 Club58 Club91 
+51 Prenom50 Nom50 Ville50 68 4 Club87 Club5 Club58 Club91 
+52 GVDV VFD VFFV 33 1 YES 
