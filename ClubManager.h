@@ -33,32 +33,4 @@ private:
     int clubCount;
 
 };
-
-
-
-
-// class ClubManager {
-// public:
-//     ClubManager();
-//     ~ClubManager();
-//
-//     void addMember(const Member& member);
-//     void removeMember(size_t index);
-//     Member getMember(size_t index) const;
-//     size_t getMemberCount() const;
-//     void displayMembers() const;
-//     void clearAllMembers();
-//
-//     void addClub(const Club& club);
-//     void removeClub(const std::string& clubName);
-//     void clearAllClubs();
-//     size_t getClubCount() const;
-//     Club* getClubs() const;
-//
-// private:
-//     static const int MAX_CLUBS = 50;
-//     Club* clubs[MAX_CLUBS];
-//     int clubCount;
-// };
-
 #endif // CLUBMANAGER_H
