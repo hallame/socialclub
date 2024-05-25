@@ -42,13 +42,13 @@ void cmd_add(ClubManager& clubManager) {
     while (true) {
         std::cout << " ";
         if (!(std::cin >> newMember.age)) {
-            // La saisie n'est pas un entier, affiche un message d'erreur
+          
             std::cout << "Erreur : L'age doit etre un nombre entier." << std::endl;
-            // Efface l'état d'erreur et vide le tampon de saisie
+        
             std::cin.clear();
             std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
         } else {
-            // La saisie est un entier, sort de la boucle
+           
             break;
         }
     }
@@ -78,30 +78,6 @@ void cmd_show(const ClubManager& clubManager) {
         std::cout << "- " << membre.clubNames[i] << std::endl;
     }
 }
-
-// void cmd_display(ClubManager &clubManager) {
-//     int id;
-//     std::cout << "Entrez l'ID du membre à afficher : ";
-//     std::cin >> id;
-//     std::cin.ignore();
-//
-//     Member membre = clubManager.getMember(id);
-//     if (membre.id == -1) {
-//         std::cerr << "Erreur : Membre non trouve." << std::endl;
-//         return;
-//     }
-//
-//     std::cout << "ID : " << membre.id << std::endl;
-//     std::cout << "Prenom : " << membre.firstName << std::endl;
-//     std::cout << "Nom : " << membre.lastName << std::endl;
-//     std::cout << "Ville : " << membre.city << std::endl;
-//     std::cout << "Age : " << membre.age << std::endl;
-//     std::cout << "Clubs : " << std::endl;
-//     for (int i = 0; i < membre.clubCount; ++i) {
-//         std::cout << "- " << membre.clubNames[i] << std::endl;
-//     }
-//     std::cout << "**********************\n" << std::endl;
-// }
 
 void cmd_edit(ClubManager &clubManager) {
     int id;
