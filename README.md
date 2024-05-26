@@ -1,4 +1,4 @@
-# Social Club Management Program
+# Social Club Management
 
 
 This C++ program allows efficient management of social club members.
