@@ -11,7 +11,7 @@ void showMenu() {
     std::cout << "\n****************************\n";
     std::cout << "\033 CLUB SOCIAL \033\n";
     std::cout << "\033 Commandes\033\n\n ";
-    std::cout << " 1. Ajouter un membre\n";
+    std::cout << " 1.Ajouter un membre\n";
     std::cout << "2. Afficher un membre\n";
     std::cout << "3. Editer les clubs d'un membre\n";
     std::cout << "S. Statistiques\n";
