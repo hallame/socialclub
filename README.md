@@ -1,8 +1,7 @@
 # Social Club Management Program
 
-![Club Logo](https://via.placeholder.com/150)
 
-This C++ program allows efficient management of social club members. It offers a simple interface for performing various operations on members and clubs.
+This C++ program allows efficient management of social club members.
 
 ## Features
 
@@ -22,8 +21,7 @@ This C++ program allows efficient management of social club members. It offers a
 
 ## Screenshot
 
-![Program Screenshot](screenshot.png)
+![Program Screenshot](cmake-build-debug/screen.png)
 
 ---
 
-This program is designed to be user-friendly and to facilitate the management of members and clubs in a social environment. Whether it's adding new members, editing their information, or obtaining statistics, this program is a comprehensive tool for any social club.
