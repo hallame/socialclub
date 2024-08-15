@@ -144,7 +144,6 @@ void cmd_edit(ClubManager &clubManager) {
     db_write(id - 1, &membre);
 }
 
-// Fonction pour afficher les statistiques
 void cmd_stats(const ClubManager &clubManager) {
     int totalClubs = 0;
     for (int i = 0; i < clubManager.getMemberCount(); ++i) {
